@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm karri sivakrishna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="<h1 align="center">Hi 👋, I'm karri sivakrishna</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">Hi 👋, I'm karri sivakrishna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karrisivakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="karrisivakrishna" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
-- 💬 Ask me about **mern**
+- 💬 Ask me about **mern,frontend devolpment**
 
 - 📫 How to reach me **hellosivakrishna@gmail.com**
 
