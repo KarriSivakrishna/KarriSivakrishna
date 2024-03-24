@@ -32,7 +32,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karrisivakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="karrisivakrishna" /> </p>
 
-- 🔭 I’m currently working on **track back**
+- 🔭 I’m currently working on **potfolio building**
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
