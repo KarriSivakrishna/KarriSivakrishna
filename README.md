@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
-- 💬 Ask me about **mern,frontend devolpment**
+- 💬 Ask me about **frontend devolpment**
 
 - 📫 How to reach me **hellosivakrishna@gmail.com**
 
