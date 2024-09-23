@@ -2,7 +2,14 @@
 <h1 align="center">Hi 👋, I'm karri sivakrishna</h1>
 <h3 align="center">PASSIONATE ARTIFICIAL INTELLIGENCE GRADUATE</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">Hi 👋, I'm karri sivakrishna</h1>
-<h3 align="center">passionate learner</h3>
+<h3 align="right">Skills & Interests:
+Programming Languages : Python, C, C++, HTML, CSS, JavaScript(basic knowledge)
+Frameworks/Libraries : Bootstrap, Django, NumPy, Pandas, Tkinter
+Databases : MySQL, SQLite
+Data Structures & Algorithms : Structuring Information for efficiency
+Developer Tools : Git/Github, Google Colab, VS Code, Anaconda
+Academic Coursework : Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
+Interests : Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karrisivakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="karrisivakrishna" /> </p>
 
