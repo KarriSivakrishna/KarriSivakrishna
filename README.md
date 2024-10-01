@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 🤝 I’m looking for help with **wisdom**
+- 🤝 I’m looking for help with **Practical Knowledge**
 
 - 👨‍💻 All of my projects are available at here []()
 
