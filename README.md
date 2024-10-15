@@ -38,7 +38,6 @@
 <a href="https://stackoverflow.com/users/karrisivakrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karri siva krishna" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_siva__krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_siva__krishna" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/22A3A43F2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22a3a43f2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karrisivakrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karrisivakrishna" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gfg(<sivatechoxko>/https://www.geeksforgeeks.org/user/sivatechoxko/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg(<sivatechoxko>/https://www.geeksforgeeks.org/user/sivatechoxko/)" height="30" width="40" /></a>
 </p>
 
