@@ -1,5 +1,7 @@
 h1 align="center">Hi 👋, I'm SivaKrishna Karri</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">Hi 👋, I'm karri sivakrishna</h1>
+<h3 align="center">passionate Computer Science Engineering student with skills in Java, Python, SQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karrisivakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="karrisivakrishna" /> </p>
 
