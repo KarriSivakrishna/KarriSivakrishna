@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karrisivakrishna" alt="karrisivakrishna" /></a> </p>
 
 <p align="left"> 
-  <a href="https://linkedin.com/in/karri siva krishna" target="blank">
+  <a href="https://linkedin.com/in/karrisivakrishna" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" />
   </a> 
 </p>
